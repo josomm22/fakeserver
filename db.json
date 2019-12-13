@@ -1,1 +1,12 @@
-{{name:'pazuzu, avatar:"www.google.com}}
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hello",
+      "avatar":"testing"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
